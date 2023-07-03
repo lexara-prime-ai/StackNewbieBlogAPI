@@ -130,7 +130,7 @@ namespace StackNewbieBlog.Controllers
                 return Ok(existingPost);
             }
 
-            return NotFound();
+            return NotFound(); 
         }
 
     }
