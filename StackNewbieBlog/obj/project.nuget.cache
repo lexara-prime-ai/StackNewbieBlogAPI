@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sBz+6y2/tdrcL81wrBJn6wrFZywXeQXIi0khEDLRT2YOrLRCkhCLeacEcQ64NnazAGuoFvx3Oj/vw7iVNSm4Ow==",
+  "dgSpecHash": "zjlvQqa3/AdrqvcSMWjDakW4MoePt7SwPMbT+HaXU25oyXbIUv6P1/1pUtUr+Oe4AN1AsiLFH1uqPSA7ZoEdcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(C# x Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
+  "projectFilePath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(CS_x_Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows Server\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Windows Server\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

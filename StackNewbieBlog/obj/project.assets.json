@@ -3916,11 +3916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(C# x Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
+      "projectUniqueName": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(CS_x_Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
       "projectName": "StackNewbieBlog",
-      "projectPath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(C# x Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
+      "projectPath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(CS_x_Angular)\\API\\StackNewbieBlog\\StackNewbieBlog.csproj",
       "packagesPath": "C:\\Users\\Windows Server\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(C# x Angular)\\API\\StackNewbieBlog\\obj\\",
+      "outputPath": "C:\\Users\\Windows Server\\Desktop\\PROGRAMMING(Resources etc)\\SANDBOX\\box11(CS_x_Angular)\\API\\StackNewbieBlog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
